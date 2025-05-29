@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, PollAnswerHandler, ChatMemberHandler
 
 # === CONFIG ===
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '7331418623:AAFtHkoABNXsob7eM9wDPPVD7wwYq2l5weA'
 CHAT_ID = -1002600042907  # Your group chat ID
 GOOGLE_SHEET_NAME = 'UPSC_Answers'
 CREDENTIALS_FILE = 'hale-entry-461210-k3-cc040adbe19f.json'
